@@ -7,5 +7,10 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        // o Eduardo é feio
+        // o pedro nao gosta da mulher
+
+
     }
 }
